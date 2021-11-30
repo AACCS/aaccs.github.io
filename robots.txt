@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://aaccslo.org/sitemap.xml
+Host: https://aaccslo.org
